@@ -1,0 +1,229 @@
+[
+  {
+    "id": "tecnologia",
+    "nome": "Tecnologia",
+    "dica": "Destaque projetos de software, impacto mensurável (performance, disponibilidade) e a stack tecnológica em cada experiência.",
+    "modelo": {
+      "nome": "Lucas Silva",
+      "cargo": "Desenvolvedor Backend Pleno",
+      "email": "lucas.silva@exemplo.com",
+      "telefone": "(11) 98765-4321",
+      "cidade": "São Paulo, SP",
+      "link": "https://github.com/lucassilva",
+      "resumo": "Desenvolvedor Backend com 4 anos de experiência na criação e manutenção de APIs REST e microsserviços em Python e Go. Foco em arquitetura escalável, alta disponibilidade e redução de latência.",
+      "experiencias": [
+        {
+          "cargo": "Desenvolvedor Backend",
+          "empresa": "Tech Solutions",
+          "periodo": "Mar 2022 - Atual",
+          "realizacoes": [
+            "Projetou e implementou APIs REST de alta performance atendendo a mais de 2 milhões de requisições diárias com FastAPI.",
+            "Otimizou consultas SQL no PostgreSQL reduzindo o tempo de resposta médio em 35%.",
+            "Implementou pipelines de CI/CD com GitHub Actions e Docker, reduzindo tempo de deploy de 40 para 8 minutos."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Júnior",
+          "empresa": "Inova Software",
+          "periodo": "Jan 2020 - Fev 2022",
+          "realizacoes": [
+            "Desenvolveu módulos de autenticação e controle de acesso com JWT e OAuth2.",
+            "Aumentou a cobertura de testes unitários e de integração de 55% para 88% com Pytest."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Bacharelado em Ciência da Computação",
+          "instituicao": "Universidade de São Paulo (USP)",
+          "periodo": "2018 - 2022"
+        }
+      ],
+      "habilidades": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker",
+        "Microsserviços",
+        "Git",
+        "CI/CD",
+        "Pytest",
+        "Redis",
+        "Linux"
+      ],
+      "idiomas_certificacoes": [
+        "Inglês Avançado",
+        "AWS Certified Cloud Practitioner"
+      ]
+    }
+  },
+  {
+    "id": "dados",
+    "nome": "Dados",
+    "dica": "Enfatize pipelines de dados, volumetria tratada, insights de negócio gerados e ferramentas de BI ou modelos estatísticos.",
+    "modelo": {
+      "nome": "Mariana Costa",
+      "cargo": "Analista de Dados Pleno",
+      "email": "mariana.costa@exemplo.com",
+      "telefone": "(21) 97654-3210",
+      "cidade": "Rio de Janeiro, RJ",
+      "link": "https://linkedin.com/in/marianacosta-dados",
+      "resumo": "Analista de dados com sólida experiência em modelagem dimensional, automação de pipelines ETL e criação de dashboards gerenciais de apoio a tomada de decisões estratégicas.",
+      "experiencias": [
+        {
+          "cargo": "Analista de Dados",
+          "empresa": "Fintech Insight",
+          "periodo": "Jun 2022 - Atual",
+          "realizacoes": [
+            "Desenvolveu pipelines ETL em Python e SQL processando mais de 500 GB de eventos diários.",
+            "Construiu painéis executivos no Power BI adotados por diretores para monitoramento de KPIs de churn e receita.",
+            "Automatizou rotinas de conciliação financeira poupando 15 horas semanais da equipe de operações."
+          ]
+        },
+        {
+          "cargo": "Assistente de Dados",
+          "empresa": "Data Intelligence",
+          "periodo": "Fev 2021 - Mai 2022",
+          "realizacoes": [
+            "Realizou consultas e limpeza de dados utilizando SQL e Pandas para relatórios mensais de clientes.",
+            "Documentou dicionários de dados corporativos garantindo governança de catálogo de dados."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Estatística",
+          "instituicao": "Universidade Federal do Rio de Janeiro (UFRJ)",
+          "periodo": "2017 - 2021"
+        }
+      ],
+      "habilidades": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Pandas",
+        "ETL",
+        "Modelagem Dimensional",
+        "Git",
+        "Estatística Descritiva",
+        "BigQuery"
+      ],
+      "idiomas_certificacoes": [
+        "Inglês Intermediário",
+        "Microsoft Certified: Data Analyst Associate"
+      ]
+    }
+  },
+  {
+    "id": "administrativo-financeiro",
+    "nome": "Administrativo/Financeiro",
+    "dica": "Priorize indicadores de eficiência, conformidade, redução de custos e controle de fluxo de caixa ou processos.",
+    "modelo": {
+      "nome": "Rafael Oliveira",
+      "cargo": "Analista Financeiro",
+      "email": "rafael.oliveira@exemplo.com",
+      "telefone": "(31) 98888-1234",
+      "cidade": "Belo Horizonte, MG",
+      "link": "https://linkedin.com/in/rafael-oliveira-financas",
+      "resumo": "Profissional da área financeira com foco em controladoria, contas a pagar/receber, conciliação bancária e previsão orçamentária (forecasting) para médias empresas.",
+      "experiencias": [
+        {
+          "cargo": "Analista Financeiro Pleno",
+          "empresa": "Grupo Comercial Brasil",
+          "periodo": "Abr 2021 - Atual",
+          "realizacoes": [
+            "Gerenciou fluxo de caixa diário e conciliação bancária com volume médio de R$ 5 milhões/mês.",
+            "Liderou renegociação com fornecedores estratégicos gerando economia anual de 12% em contratos de serviços.",
+            "Elaborou relatórios de DRE e projeção orçamentária para reuniões de conselho de administração."
+          ]
+        },
+        {
+          "cargo": "Assistente Financeiro",
+          "empresa": "Logística Mineira",
+          "periodo": "Jan 2019 - Mar 2021",
+          "realizacoes": [
+            "Operou módulos de contas a pagar e emissão de notas fiscais eletrônicas em sistema ERP Totvs.",
+            "Reduziu índice de inadimplência em 8% através da reformulação do fluxo de cobrança ativa."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Administração de Empresas",
+          "instituicao": "Pontifícia Universidade Católica de Minas Gerais (PUC-MG)",
+          "periodo": "2016 - 2020"
+        }
+      ],
+      "habilidades": [
+        "Fluxo de Caixa",
+        "Conciliação Bancária",
+        "DRE",
+        "Excel Avançado",
+        "ERP Totvs",
+        "Contas a Pagar e Receber",
+        "Orçamento Empresarial"
+      ],
+      "idiomas_certificacoes": [
+        "Inglês Básico",
+        "Certificação em Gestão Financeira Corporativa"
+      ]
+    }
+  },
+  {
+    "id": "comercial-marketing",
+    "nome": "Comercial/Marketing",
+    "dica": "Mostre métricas comerciais claras: faturamento gerado, superação de metas, taxas de conversão (CAC, LTV) e liderança de campanhas.",
+    "modelo": {
+      "nome": "Camila Fernandes",
+      "cargo": "Coordenadora de Marketing Digital",
+      "email": "camila.fernandes@exemplo.com",
+      "telefone": "(41) 99123-4567",
+      "cidade": "Curitiba, PR",
+      "link": "https://linkedin.com/in/camila-fernandes-mkt",
+      "resumo": "Especialista em marketing de performance e geração de demanda B2B/B2C com histórico comprovado de aumento de ROI e estruturação de funis de vendas.",
+      "experiencias": [
+        {
+          "cargo": "Coordenadora de Marketing Digital",
+          "empresa": "Growth Agency",
+          "periodo": "Ago 2021 - Atual",
+          "realizacoes": [
+            "Gerenciou budget de mídia paga de R$ 150 mil/mês em Google Ads e Meta Ads com ROI positivo médio de 4.2x.",
+            "Estruturou estratégia de Inbound Marketing que aumentou a geração de leads qualificados (MQL) em 45%.",
+            "Coordenou equipe multidisciplinar de 5 profissionais entre designers, redatores e analistas de tráfego."
+          ]
+        },
+        {
+          "cargo": "Analista de Growth Marketing",
+          "empresa": "Varejo Online",
+          "periodo": "Mar 2019 - Jul 2021",
+          "realizacoes": [
+            "Conduziu testes A/B em landing pages aumentando a taxa de conversão de 2.1% para 3.8%.",
+            "Implementou fluxos de automação de e-mail marketing com RD Station atingindo taxa de abertura de 28%."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Comunicação Social - Publicidade e Propaganda",
+          "instituicao": "Universidade Federal do Paraná (UFPR)",
+          "periodo": "2015 - 2019"
+        }
+      ],
+      "habilidades": [
+        "Google Ads",
+        "Meta Ads",
+        "Google Analytics 4",
+        "Growth Marketing",
+        "Inbound Marketing",
+        "Copywriting",
+        "Testes A/B",
+        "CRM e Automação"
+      ],
+      "idiomas_certificacoes": [
+        "Inglês Fluente",
+        "Certificação Google Ads Search",
+        "HubSpot Inbound Marketing"
+      ]
+    }
+  }
+]

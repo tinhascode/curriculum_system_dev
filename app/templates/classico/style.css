@@ -1,0 +1,129 @@
+@page {
+    size: A4;
+    margin: 14mm;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 10pt;
+    line-height: 1.4;
+    color: #111111;
+    background-color: #ffffff;
+}
+
+.resume-container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 14pt;
+    border-bottom: 1.5pt solid #222222;
+    padding-bottom: 8pt;
+}
+
+.header .name {
+    font-size: 20pt;
+    font-weight: bold;
+    letter-spacing: 0.5pt;
+    margin-bottom: 3pt;
+    color: #000000;
+}
+
+.header .title {
+    font-size: 12pt;
+    font-weight: 600;
+    color: #333333;
+    margin-bottom: 5pt;
+}
+
+.header .contact-info {
+    font-size: 9.5pt;
+    color: #444444;
+}
+
+.header .contact-info .separator {
+    margin: 0 4pt;
+    color: #888888;
+}
+
+.section {
+    margin-bottom: 12pt;
+}
+
+.section-title {
+    font-size: 11pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.5pt;
+    color: #111111;
+    border-bottom: 1pt solid #444444;
+    padding-bottom: 2pt;
+    margin-bottom: 6pt;
+}
+
+.section-content {
+    font-size: 10pt;
+}
+
+.summary-text {
+    text-align: justify;
+    line-height: 1.45;
+}
+
+.item-block {
+    margin-bottom: 8pt;
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+.item-block:last-child {
+    margin-bottom: 0;
+}
+
+.item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-weight: bold;
+}
+
+.item-title {
+    font-size: 10pt;
+    color: #111111;
+}
+
+.item-date {
+    font-size: 9.5pt;
+    font-weight: normal;
+    color: #444444;
+    text-align: right;
+}
+
+.item-subtitle {
+    font-size: 9.5pt;
+    font-style: italic;
+    color: #333333;
+    margin-bottom: 3pt;
+}
+
+.bullet-list {
+    margin-left: 16pt;
+    margin-top: 3pt;
+}
+
+.bullet-list li {
+    margin-bottom: 2pt;
+    line-height: 1.35;
+}
+
+.inline-list {
+    line-height: 1.5;
+}
