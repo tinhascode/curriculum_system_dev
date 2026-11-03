@@ -1,0 +1,1 @@
+"""curriculo-ats-api package."""
